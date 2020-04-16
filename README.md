@@ -65,6 +65,6 @@ This is a company internship project that provides a work-oriented chatting envi
 
 # ScreenShots
 
-- [Working](https://ibb.co/VQPVVS3)
+- [Working View](https://ibb.co/VQPVVS3)
 - [Home Page](https://ibb.co/cD2hV2c)
 - [Chat Room](https://ibb.co/YNvyK4w)
