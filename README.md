@@ -65,7 +65,5 @@ Also, a user can share media through this platform.
 
 This is a company internship project that provides a work-oriented chatting environment for all employees. The main intention was to explore and learn a lot about [Socket.io](https://socket.io/) and [Angular](https://angular.io/).
 
-# ScreenShots
 
 ![Preview](https://i.ibb.co/BrSLLZw/chat-app-preview.gif)
-- [Home Page](https://ibb.co/cD2hV2c)
