@@ -1,6 +1,6 @@
 # Tunnel Chat App
 
-[Chat Room](https://i.ibb.co/L04JqDH/Screenshot-2020-04-16-at-10-12-15-PM.png)
+![Chat Room](https://i.ibb.co/L04JqDH/Screenshot-2020-04-16-at-10-12-15-PM.png)
 
 > A small chat application built using the **MEAN** stack  
 > Note: this is a deployed project hence the code cannot be made public
