@@ -1,5 +1,7 @@
 # Tunnel Chat App
 
+[Chat Room](https://ibb.co/YNvyK4w)
+
 > A small chat application built using the **MEAN** stack  
 > Note: this is a deployed project hence the code cannot be made public
 
@@ -67,4 +69,3 @@ This is a company internship project that provides a work-oriented chatting envi
 
 ![Preview](https://i.ibb.co/BrSLLZw/chat-app-preview.gif)
 - [Home Page](https://ibb.co/cD2hV2c)
-- [Chat Room](https://ibb.co/YNvyK4w)
