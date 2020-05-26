@@ -13,7 +13,7 @@
 
 - Open 1on1 private conversations with a user of your choice
 
-- Special departmenal room where all users of the same department can communicate
+- Special departmental room where all users of the same department can communicate
 
 - Allows the sharing of media files
 
